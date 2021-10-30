@@ -7,3 +7,5 @@ Name : End is the Beginning.
 Type : Game made with Unity software.
 
 Supported Platforms : Windows, Webgl.
+
+Executable game (Link) : chetancrs.itch.io/the-beginning
